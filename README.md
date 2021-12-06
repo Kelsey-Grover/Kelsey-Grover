@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kelsey-Grover
+- 👀 I’m interested in discussing Javascript Roles with talented Fullstack Engineers
+- 💞️ I’m looking to collaborate on interesting roles and exciting projects
+- 📫 How to reach me - Email - Kelsey@grover.com 
